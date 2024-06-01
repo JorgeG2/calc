@@ -1,0 +1,15 @@
+/Users/jorgegonzales/Desktop/calc/tempCalc/obj/Debug/net8.0/tempCalc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorgegonzales/Desktop/calc/tempCalc/obj/Debug/net8.0/tempCalc.AssemblyInfoInputs.cache
+/Users/jorgegonzales/Desktop/calc/tempCalc/obj/Debug/net8.0/tempCalc.AssemblyInfo.cs
+/Users/jorgegonzales/Desktop/calc/tempCalc/obj/Debug/net8.0/tempCalc.csproj.CoreCompileInputs.cache
+/Users/jorgegonzales/Desktop/calc/tempCalc/obj/Debug/net8.0/tempCalc.sourcelink.json
+/Users/jorgegonzales/Desktop/calc/tempCalc/bin/Debug/net8.0/tempCalc
+/Users/jorgegonzales/Desktop/calc/tempCalc/bin/Debug/net8.0/tempCalc.deps.json
+/Users/jorgegonzales/Desktop/calc/tempCalc/bin/Debug/net8.0/tempCalc.runtimeconfig.json
+/Users/jorgegonzales/Desktop/calc/tempCalc/bin/Debug/net8.0/tempCalc.dll
+/Users/jorgegonzales/Desktop/calc/tempCalc/bin/Debug/net8.0/tempCalc.pdb
+/Users/jorgegonzales/Desktop/calc/tempCalc/obj/Debug/net8.0/tempCalc.dll
+/Users/jorgegonzales/Desktop/calc/tempCalc/obj/Debug/net8.0/refint/tempCalc.dll
+/Users/jorgegonzales/Desktop/calc/tempCalc/obj/Debug/net8.0/tempCalc.pdb
+/Users/jorgegonzales/Desktop/calc/tempCalc/obj/Debug/net8.0/tempCalc.genruntimeconfig.cache
+/Users/jorgegonzales/Desktop/calc/tempCalc/obj/Debug/net8.0/ref/tempCalc.dll
